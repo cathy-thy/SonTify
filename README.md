@@ -1,5 +1,5 @@
 # SongTify
-> Outline a brief description of your project.
+
 [![ReactJS](https://img.shields.io/badge/ReactJS-%20%20TECH%20%20-blue?style=flat-square&logo=react&labelColor=61DAFB&color=grey&logoColor=black)]
 [![CSS](https://img.shields.io/badge/CSS-%20%20TECH%20%20-blue?style=flat-square&logo=css3&labelColor=1572B6&color=grey)]
 [![Surgh.sh](https://img.shields.io/badge/Surge.sh-%20%20PUBLISH%20%20-blue?style=flat-square&labelColor=564740&color=f7e9de)]
