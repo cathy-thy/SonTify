@@ -5,6 +5,9 @@
 ![CSS](https://img.shields.io/badge/CSS-%20%20TECH%20%20-blue?style=flat-square&logo=css3&labelColor=1572B6&color=grey)
 ![Surgh.sh](https://img.shields.io/badge/Surge.sh-%20%20PUBLISH%20%20-blue?style=flat-square&labelColor=63c199&color=grey)
 
+## Attribution 
+> <img src="https://user-images.githubusercontent.com/48180241/133064596-d2764c4e-572e-4bad-a659-7cfa17d94229.png" width="100">
+
 ## General Information
 - SongTify allows you to connect with your SPOTIFY Account and create new playlist
 > Try it out [_https://songtify.surge.sh_](https://songtify.surge.sh)
@@ -23,3 +26,6 @@ SongTify has following features:
 
 ## Screenshots
 ![image](https://user-images.githubusercontent.com/48180241/133062887-f3679142-47d1-4968-9f8d-4e01dc17adb4.png)
+
+
+
