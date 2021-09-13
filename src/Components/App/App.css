@@ -1,0 +1,90 @@
+body,
+html,
+#root {
+  height: 100%;
+}
+
+html {
+  font-size: 18px;
+}
+
+h1 {
+  background-color: #010c3f;
+  text-align: left;
+  font-family: 'Permanent Marker', 'Architects Daughter', 'Indie Flower', sans-serif;
+  font-size: 1.6rem;
+  color: #fff;
+}
+
+h1 .highlight {
+  color: white;
+}
+
+.col-text2 {
+  background-color: #010c3f;
+  text-align: left;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.5rem;
+  color: #fff;
+}
+
+.header-row{
+  height:30px;
+  padding: .77rem 1rem;
+  display:flex;
+  background-color: #010c3f;
+}
+
+.header-col1{
+  width: 50%;
+  float:left;
+
+}
+.header-img{
+  max-height:100%;
+  max-width:100%;
+  object-fit:contain;
+}
+
+.header-col2{
+  width: 50%;
+  float:right;
+
+}
+
+.col-text2{
+  float:right;
+  padding: .5rem 1rem;
+}
+
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.55rem;
+}
+
+.App {
+  height: 100%;
+  padding: 0 17% 10% 17%;
+  background-image: url('./background_photo_desktop.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: repeat;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 500px;
+
+  color: #fff;
+}
+
+.App-playlist {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+@media only screen and (max-width: 1020px) {
+  .App-playlist {
+    align-items: center;
+    flex-direction: column;
+  }
+}
