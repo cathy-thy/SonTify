@@ -72,7 +72,7 @@ class App extends React.Component {
 
           </div>
           <div class="header-col2">
-            <div class="col-text2"> Creater: Cathy Tsui  |  Email: cathy.tsuihy@gmail.com </div>
+            <div class="col-text2"> Creater: Cathy Tsui  |  Email: cathytsui.git@gmail.com </div>
           </div>
         </div>
         <div className="App">{
